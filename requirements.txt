@@ -1,0 +1,7 @@
+streamlit 
+keras 
+keras-nlp 
+tensorflow-cpu 
+tensorflow-text 
+pandas 
+scikit-learn
